@@ -2,11 +2,12 @@
 <h1 align="center">📚</h1>
 
 
-<div style="text-align:center;">
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=az9170)](https://solved.ac/az9170/)
 
 </div>
+
 <p align="center">
   <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
