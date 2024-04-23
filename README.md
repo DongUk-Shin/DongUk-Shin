@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=az9170)](https://solved.ac/az9170/)
+github-readme-stats.vercel.app/api?username={DongUk-Shin}&show_icons=true&theme=dark
 
 </div>
 
